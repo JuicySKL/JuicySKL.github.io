@@ -4,4 +4,6 @@ html, html::before, html::after {
   box-sizing: border-box;
   text-align: center;
   font-family: Cinzel, Cambria, serif;
+  background-color: black;
+  color: white;
 }
