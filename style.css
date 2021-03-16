@@ -1,0 +1,7 @@
+html, html::before, html::after {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Cinzel, Cambria, serif;
+}
